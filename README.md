@@ -1,7 +1,7 @@
 # Calorie-Calculator
 ## Python Programming Lesson
 
-## Project Topic
+**Project Topic**
 Suggest a model that recommends a diet based on the desired calorie input.
 
 ## 사용방법
